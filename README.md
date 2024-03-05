@@ -24,3 +24,4 @@ Folder structure<br />
      &emsp;&emsp;&emsp;&emsp;ExcelReader.java<br />
      &emsp;&emsp;&emsp;&emsp;ExtentReportManager.java<br />
 pom.xml<br />
+testng.xml<br />
